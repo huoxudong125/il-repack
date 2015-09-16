@@ -71,6 +71,9 @@ gradlew.bat msbuild
 
 (Mono.Posix 3.5-compatible dependency was grabbed from a non-standard nuget repo, it has been commited to git to avoid the dependency on this repo)
 
+##Work with VS
+[Merging .NET Assemblies with MSBuild](https://peteris.rocks/blog/merging-net-assemblies-with-msbuild/)   
+
 TODO
 ------
   * Crash-testing
